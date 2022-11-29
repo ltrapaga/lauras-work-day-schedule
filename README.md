@@ -11,3 +11,4 @@
 To access my Web APIs Challenge: Code Quiz, please visit the live site at https://ltrapaga.github.io/lauras-work-day-schedule/.
 
 ## Screenshots
+<img width="1417" alt="image" src="https://user-images.githubusercontent.com/115514660/204416097-545d904b-d90c-412a-99f5-fec4eca91a83.png">
